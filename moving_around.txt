@@ -1,0 +1,122 @@
+# Change to home directory
+cd ~
+
+history > moving_around.txt
+
+# Pipe output of history to the pager less
+history | less
+
+history | tail -r
+history | tail
+history
+
+# Shows where you are currently in the navigation
+pwd
+cd ..
+ls ~
+cd /
+cd Tyler/
+cd
+ls -r
+cd music/
+ls -rt
+cd users
+cd Users/
+cd users/
+cd user/
+cd usr/
+cd usr
+cd src
+ls -l
+ls
+Tyler Niemi
+tylerniemi
+tniemi
+ls -tz
+ls-tz
+ls -lt
+ls -t
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name ’Tyler Niemi'
+git config --global user.email ’tylerniemi@hotmail.com'
+git --version
+brew install git
+echo $PATH
+/usr/local/bin
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+cd /Applications/
+which subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+subl
+sub
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+ls -tz
+ls ~
+history > moving_around.txt
+cd ~
+history | tail -r
+history | tail
+history
+pwd
+cd ..
+cd /
+cd Tyler/
+cd
+ls -r
+cd music/
+ls -rt
+cd users
+cd Users/
+cd users/
+cd user/
+cd usr/
+cd usr
+cd src
+ls -l
+ls
+Tyler Niemi
+tylerniemi
+tniemi
+ls-tz
+ls -lt
+ls -t
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name ’Tyler Niemi'
+git config --global user.email ’tylerniemi@hotmail.com'
+git --version
+brew install git
+echo $PATH
+/usr/local/bin
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+cd /Applications/
+which subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+subl
+sub
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
